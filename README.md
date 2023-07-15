@@ -26,5 +26,5 @@ A method isn’t a design pattern in C#, even though it solves a general repeata
 
 The dirty truth is, design patterns are templatized solutions to common problems that you as the programmer have to manually implement, and there is no first class native language construct to assist in. This means, for whatever reason, the ability of the language to create abstractions at this point, is not powerful enough to encapsulate whatever you are trying to abstract into code. 
 
-I'm building a [meta programming framework](https://github.com/guyettenathanj/Easy-CSharp-Metaprogramming) in C# to help amilerate some of the overhead of having to type the same thing over and over again.
+I'm building a [meta programming framework](https://github.com/guyettenathanj/Easy-CSharp-Metaprogramming) in C# to help ameliorate some of the overhead of having to type the same thing over and over again.
 
